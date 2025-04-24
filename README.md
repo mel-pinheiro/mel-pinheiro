@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @mel-pinheiro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I'm @mel-pinheiro
+- 👀 I'm interested... in backend y data.
+- 🌱 I'm learning... full stack software development
 
-<!---
-mel-pinheiro/mel-pinheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to contact me... E-mail: pinheiro34@gmail.com
+- 😄 Pronouns... She, Her
+- ⚡ Fun fact... I love cats
+
