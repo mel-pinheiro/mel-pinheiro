@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @mel-pinheiro
-- 👀 I'm interested... in backend y data.
+- 👀 I'm interested... in frontend y UX.
 - 🌱 I'm learning... full stack software development
 
 - 📫 How to contact me... E-mail: pinheiro34@gmail.com
