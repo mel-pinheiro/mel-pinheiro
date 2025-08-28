@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I am Melissa Pinheiro</h2>
 <h3 align="center">Dev Front-end & Back-end</h3>
 
-- 🔭 Sou Desenvolvedora Front End
+- 🔭 Sou Desenvolvedora Full Stack
 - 👀 Interesses: Interfaces intuitivas, design centrado no usuário e desenvolvimento web moderno.
 - 😄 Pronomes: Ela / Dela
 - ⚡ Curiosidade divertida: Gatos são minha fonte de inspiração 🐾
